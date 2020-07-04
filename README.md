@@ -22,6 +22,18 @@ Work on the data set in session 7 , work towards bias/variance. Understand regul
 Assignment -4 
 Image classification using CNN
 
+Assignment-5 [14-06-2020]
+Stock price prediction using LSTM
+
+Assignment-6[21-06-2020]
+Use SOM code to work out the diabetes dataset as an unsupervised learning
+
+Assignment-7[28-06-2020]
+Develop your own face recognition algorithm
+Download the data from https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 session -1 
 Understanding logistic regression and implementation in python
 This session also contains the conversion of linear regression to logistic regression
@@ -54,3 +66,18 @@ CNN , image classification
 
 Session - 9 [13-06-2020]
 RNN concept and LSTM.
+
+Session 10[14-06-2020]
+Using LSTM to predict stock price 
+
+session 11[20-06-2020]
+Self organizing maps theory understanding and knowing the concept by working out an example on pen and paper
+
+session 12[21-06-2020]
+Self organizing map implementation in python 
+
+session 13[27-06-2020]
+Face recognition logic, algorithm 
+
+Session14[28-06-2020]
+Face recognition code run
